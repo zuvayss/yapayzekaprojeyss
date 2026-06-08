@@ -78,6 +78,11 @@ Tarayıcı otomatik açılır: `http://localhost:8501`
 
 ---
 
+## Model Dosyası
+https://drive.google.com/file/d/1XgiCWVMF945xBDZeVwnSR7m6fWaXqelQ/view?usp=sharing
+
+---
+
 ## 👤 Geliştiriciler
 
 - Yavuz Selim Serdar
