@@ -126,8 +126,4 @@ Uygulamanın doğru çalıştığı şu adımlarla doğrulanabilir:
 
 ## 10. Geliştirici Bilgileri
 
-- Uludoğan
-- Eren Altun
-- Mustafa Kale
-
-Karabük Üniversitesi — Yazılım Mühendisliği
+- Yavuz Selim Serdar
